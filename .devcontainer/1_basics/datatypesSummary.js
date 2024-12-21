@@ -31,3 +31,19 @@
 // console.log(typeof name of any variable);
 
 // the return type of non-primitive datatype is (object) and of the function is (object function)
+
+
+
+// ***************** Memory *********************
+
+// Types of memory
+// Stack and Heap
+
+// Stack memory is used in (Primitive)
+// Heap memory is used in ( non-Primitive)
+
+// if stack memory is used then you get the copy of declared varible
+//**** if heap memory is used then you get the reference of orignal value****
+
+// let myNameis = "Saadi" 
+// variable (myNameis) the primitive type then its value will go into the stack memory
